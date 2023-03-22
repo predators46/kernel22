@@ -1,6 +1,6 @@
-19b92a239389e8591a58fa6ae0274901de7c14b947cab9259a4b096ead6ceafb  boot-6.1.20-flippy-82+.tar.gz
-6b34dd8444430096bb4c9ecbe4f253a1a59f9a1d5d3359bab4fe5b98b7c607b3  dtb-allwinner-6.1.20-flippy-82+.tar.gz
-67aa1a1425bc44c05128a1714c970081d50342fa2a2de1a73bf6b0ebc64fb239  dtb-amlogic-6.1.20-flippy-82+.tar.gz
-4434581012ab0c3bb4afa8da345c13e1ef144f4032abf8a7a38c47a46e4152ad  dtb-rockchip-6.1.20-flippy-82+.tar.gz
-c8e5dac6033bc4b10a7424e82dac8146ee49d8e346ecf84a66994cfc07a0eb8c  header-6.1.20-flippy-82+.tar.gz
-e2f9fed4ce3cb708506152816b35d8cce9d08a9d343bc53a8e8eaf92a2e9b81f  modules-6.1.20-flippy-82+.tar.gz
+2ba610bd04b303d4710f56c37791a6ce9dbb3d96ffc2bc6ef4d3745efa9232d8  boot-6.1.20-flippy-82+.tar.gz
+62193ee84005a7cc1a2c375f264f1ee856f32e1439b9683582a87ba1b39306b2  dtb-allwinner-6.1.20-flippy-82+.tar.gz
+c3c56406d6a56ecc69ccf8f0119538d3d6e4c4f0d6cc7067dcbfeb0c51c05199  dtb-amlogic-6.1.20-flippy-82+.tar.gz
+01d96f57da9e73280f23a7d34d54b40aa2a21534f5331ac3711f19c21611e161  dtb-rockchip-6.1.20-flippy-82+.tar.gz
+97c44afd3db1be67c06c0c2df1db278baa55def6894fdf401cecf19d8929e882  header-6.1.20-flippy-82+.tar.gz
+028bcdaaea828095404bf34c2972c963f467d82aea75b3e48ec31a308a300e61  modules-6.1.20-flippy-82+.tar.gz
